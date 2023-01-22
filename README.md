@@ -1,4 +1,4 @@
-                                                                     ONLINE CROWDFUNDING PLATFORM
+                                            ONLINE CROWDFUNDING PLATFORM
                                                                     
 1) Background/ Problem Statement
 
